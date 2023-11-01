@@ -1,4 +1,5 @@
 # UX220Forms
 getting started with forms
 
-Edit this on [https://diy-pwa.dev](https://diy-pwa.dev/rhildred/UX220Forms)
+Edit this on [https://diy-pwa.dev](https://diy-pwa.dev/~/gh/Iceman0001/UX220Forms)
+
